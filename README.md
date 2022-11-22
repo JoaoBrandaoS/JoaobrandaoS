@@ -11,7 +11,7 @@
 <br><li><b><font size="45">Social Midia:</font></b></li>
 
 [![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-vitor-brand%C3%A3o-466a72229/)
-[![Social](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JoaoBrandaoS)
+[![Social](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JoaoBrandaoS?tab=repositories)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/jaob._/?next=%2F)
 
 <li><b><font size="45">Skills:</font></b></li>
