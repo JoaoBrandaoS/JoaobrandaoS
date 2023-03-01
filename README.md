@@ -1,5 +1,5 @@
 ***
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=15A412&size=30&center=true&vCenter=true&width=1000&lines=Desenvolvedor+Jr+de+java+e+python;Focado+em+estudos+para+Backend!!)](https://git.io/typing-svg)
+# Hello, World! i'm João Brandão 💻
 ***
  
 <br><li><b><font size="45">My Status:</font></b></li>
@@ -31,7 +31,7 @@
 <br><li><b><font size="45">Um pouco sobre Mim:</font></b></li>
 </div>
 <br>
- Olá tudo bem?espero que sim, prazer em lhe conhecer, sou um Dev tranquilo que gosta de se aventurar pelo mundo do java,
+ Olá tudo bem? prazer em lhe conhecer, sou um Dev tranquilo que gosta de se aventurar pelo mundo do java,
  atualmente trabalho como Full-stack na empresa Consenso Tecnologias, aqui em baixo vai alguns projetos em que trabalhei:
 </br>
 <ul>
