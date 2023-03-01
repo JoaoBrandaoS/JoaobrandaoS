@@ -34,6 +34,8 @@
  Olá tudo bem? prazer em lhe conhecer, sou um Dev tranquilo que gosta de se aventurar pelo mundo do java,
  atualmente trabalho como Full-stack na empresa Consenso Tecnologias, aqui em baixo vai alguns projetos em que trabalhei:
 </br>
+</div>
+<br>
 <ul>
   <li><a href="https://github.com/JoaoBrandaoS/Projeto_com_React">Aluroni</a></li>
   <li><a href="https://github.com/JoaoBrandaoS/Organo_com_TypeScript">Organo Com TypeScript</a></li>
@@ -41,5 +43,3 @@
   <li><a href="https://github.com/JoaoBrandaoS/Exercicios-Java">Exercicios Java <a/</li>
 
 </ul>
- 
-</div>
